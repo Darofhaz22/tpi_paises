@@ -180,6 +180,7 @@ Link o archivo del informe:
 Link del repositorio:
 
 https://github.com/eduardoTrigo/tpi_paises
+https://github.com/Darofhaz22/tpi_paises
 
 ## Conclusión
 
